@@ -21,7 +21,7 @@ export default function Navbar() {
                     <Link  title="View Leetcode Profile"className="text-white/90 hover:text-white" href="https://leetcode.com/eshaan446/">
                         <FaCode />
                     </Link>
-                    <Link title="View Resume" className="text-white/90 hover:text-white" href="https://drive.google.com/file/d/1F3mB89SZbaMDPFhjURnIzsr11p9Ms3H3/view?usp=share_link">
+                    <Link title="View Resume" className="text-white/90 hover:text-white" href="https://drive.google.com/file/d/1CHO1RTjz6vd5fYEnWZjxfogmHWfzx6xS/view?usp=share_link">
                         <FaFilePdf />
                     </Link>
                 </div>
